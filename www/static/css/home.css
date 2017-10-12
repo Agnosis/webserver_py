@@ -1,0 +1,17 @@
+/*
+* @Author: K
+* @Date:   2017-10-10 16:04:22
+* @Last Modified by:   K
+* @Last Modified time: 2017-10-11 19:41:16
+*/
+
+#header {
+    color: green;
+    text-align: center;
+}
+
+.drink-menu {
+    border: solid 1px #ccc;
+    color: #ccc;
+    padding: 6px;
+}
